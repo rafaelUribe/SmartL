@@ -35,7 +35,7 @@ header {
 .logo-container .logo-container_icon {
     width: 120px;
     height: 120px;
-    background-image: url("/assets/icons/iconoSL.png");
+    background-image: url("https://i.ibb.co/9qmYJ6N/iconoSL.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -89,7 +89,7 @@ main .main-image-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/assets/img/mounted.png");
+    background-image: url("https://i.ibb.co/DzP3qT7/mounted.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -160,7 +160,7 @@ table .bottom-right {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url("/assets/icons/greencheck.png");
+    background-image: url("https://i.ibb.co/ZW9rNtH/greencheck.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -192,7 +192,7 @@ main .main-product-description {
     display: block;
     width: 25px;
     height: 25px;
-    background-image: url("/assets/icons/keywhite.png");
+    background-image: url("https://i.ibb.co/17BX7wF/keywhite.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -202,7 +202,7 @@ main .main-product-description {
     display: block;
     width: 20px;
     height: 20px;
-    background-image: url("/assets/icons/wifiwhite.png");
+    background-image: url("https://i.ibb.co/fC3NhT5/wifiwhite.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -210,9 +210,9 @@ main .main-product-description {
 
 .product-description_card .code {
     display: block;
-    width: 35px;
-    height: 35px;
-    background-image: url("/assets/icons/keycode.svg");
+    width: 15px;
+    height: 15px;
+    background-image: url("https://i.ibb.co/YyKtFGG/keycode.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -271,7 +271,7 @@ main .main-product-selection {
     width: 200px;
     height: 200px;
     margin: 15px auto;
-    background-image: url("/assets/img/sl-c2.jpg");
+    background-image: url("https://i.ibb.co/xf2jYg2/sl-c2.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@ main .main-product-selection {
     width: 200px;
     height: 200px;
     margin: 15px auto;
-    background-image: url("/assets/img/sl-d2.jpg");
+    background-image: url("https://i.ibb.co/WcXP9nn/sl-d2.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -291,7 +291,7 @@ main .main-product-selection {
     width: 200px;
     height: 200px;
     margin: 15px auto;
-    background-image: url("/assets/img/sl-h3.jpg");
+    background-image: url("https://i.ibb.co/ZHsrZ66/sl-h3.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -343,7 +343,7 @@ footer .footer-logo-container {
     display: block;
     width: 40px;
     height: 40px;
-    background-image: url("/assets/icons/iconoSL.png");
+    background-image: url("https://i.ibb.co/9qmYJ6N/iconoSL.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
