@@ -35,7 +35,7 @@ header {
 .logo-container .logo-container_icon {
     width: 120px;
     height: 120px;
-    background-image: url("./assets/icons/iconoSL.png");
+    background-image: url("/assets/icons/iconoSL.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -89,7 +89,7 @@ main .main-image-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("./assets/img/mounted.png");
+    background-image: url("/assets/img/mounted.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -160,7 +160,7 @@ table .bottom-right {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url("./assets/icons/greencheck.png");
+    background-image: url("/assets/icons/greencheck.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -192,7 +192,7 @@ main .main-product-description {
     display: block;
     width: 25px;
     height: 25px;
-    background-image: url("./assets/icons/keywhite.png");
+    background-image: url("/assets/icons/keywhite.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -202,7 +202,7 @@ main .main-product-description {
     display: block;
     width: 20px;
     height: 20px;
-    background-image: url("./assets/icons/wifiwhite.png");
+    background-image: url("/assets/icons/wifiwhite.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -212,7 +212,7 @@ main .main-product-description {
     display: block;
     width: 35px;
     height: 35px;
-    background-image: url("./assets/icons/keycode.svg");
+    background-image: url("/assets/icons/keycode.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -271,7 +271,7 @@ main .main-product-selection {
     width: 200px;
     height: 200px;
     margin: 15px auto;
-    background-image: url("./assets/img/sl-c2.jpg");
+    background-image: url("/assets/img/sl-c2.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@ main .main-product-selection {
     width: 200px;
     height: 200px;
     margin: 15px auto;
-    background-image: url("./assets/img/sl-d2.jpg");
+    background-image: url("/assets/img/sl-d2.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -291,7 +291,7 @@ main .main-product-selection {
     width: 200px;
     height: 200px;
     margin: 15px auto;
-    background-image: url("./assets/img/sl-h3.jpg");
+    background-image: url("/assets/img/sl-h3.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -343,7 +343,7 @@ footer .footer-logo-container {
     display: block;
     width: 40px;
     height: 40px;
-    background-image: url("./assets/icons/iconoSL.png");
+    background-image: url("/assets/icons/iconoSL.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
